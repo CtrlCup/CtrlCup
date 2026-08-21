@@ -50,16 +50,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=CtrlCup&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CtrlCup&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
 <img src="https://streak-stats.demolab.com/?user=CtrlCup&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=CtrlCup&theme=tokyonight&no-frame=true&row=1&column=6" />
 </div>
 
 <br>
