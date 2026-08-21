@@ -89,7 +89,3 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mail@alex-klauser.de)
 
 </div>
-
-<div align="center">
-<sub>🛰️ Vom Schraubenschlüssel über den Bodensee zum Weltraum — Schritt für Schritt.</sub>
-</div>
