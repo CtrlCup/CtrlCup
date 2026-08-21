@@ -6,19 +6,6 @@
 
 <br>
 
-## 🧭 Über mich
-
-- 🚗 Gelernter **KFZ-Mechatroniker**, heute Student der **Intelligenten Mobilitätssysteme** an der HTWG Konstanz
-- 🏎️ Baue am autonomen Rennwagen des **Bodensee Racing Teams** mit — ROS2, Machine Vision, PyQt6-Steuerdashboard
-- 🏠 Betreibe mein eigenes **Homelab** (Proxmox, Docker Swarm, Reverse Proxy) und schreibe lieber meine eigene Cloud- und Serviceheft-Software, statt fertige Lösungen zu nehmen, die mir zu überladen sind
-- ⛵ Gebe Segel- und Motorbootkurse im Hochschulsport der HTWG und arbeite selbst auf meinen **Sportküstenschifferschein** hin
-- 🔧 Schraube in der Freizeit an meinem **BMW E46 328i**
-- 🛰️ Große Vision: irgendwann ein eigenes Startup im **NewSpace-Sektor / Weltraumbergbau**
-- 💬 Frag mich zu Self-Hosting, Docker, autonomem Fahren oder Segeln
-- ⚡ Fun Fact: Ich baue mir lieber selbst, was ich brauche, als mich mit einer fertigen Lösung abzufinden
-
-<br>
-
 ## 🔭 Projekte, an denen ich gerade arbeite
 
 | Projekt | Beschreibung |
