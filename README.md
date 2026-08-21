@@ -13,8 +13,8 @@
 | [**myCloud**](https://github.com/CtrlCup/myCloud) | Minimalistische, selbstgehostete Cloud-Alternative zu Nextcloud — Passkeys, SSO, granulare Freigaben |
 | [**Segeln---Stundenzettel**](https://github.com/CtrlCup/Segeln---Stundenzettel) | Web-App zum Tracken gesegelter Stunden für den SKS-Schein |
 | [**Serviceheft-v2**](https://github.com/CtrlCup/Serviceheft-v2) | Digitales Fahrzeug-Serviceheft mit Live-Fahrzeugdaten per UDP/WebSocket |
-| [**WebScraper**](https://github.com/CtrlCup/WebScraper) | Multi-Crawler-Plattform (FastAPI + React) zur Marktanalyse von Segelbooten |
-| [**homeserver-scripts**](https://github.com/CtrlCup/homeserver-scripts) | Backup-, Security-Watchdog- und Hardening-Skripte für mein Homelab |
+| [**Linksammlung**](https://github.com/CtrlCup/Linksammlung-v3) | Linksammlung als übersicht fürs Studium |
+| [**vipeCode**](https://github.com/CtrlCup/vipeCode) | Setup zum Agentic Engineering |
 
 <br>
 
